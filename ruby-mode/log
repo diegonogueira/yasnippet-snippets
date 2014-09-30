@@ -1,0 +1,6 @@
+#name : ==== log. ====
+#group : general
+# --
+puts "========= BEGIN LOG =========="
+puts $0
+puts "========= END LOG ============"
